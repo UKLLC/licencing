@@ -1,7 +1,7 @@
 # licencing
 Copying and Licence information (CC-BY-SA)
 
-The material on this site is copyright (c) 2020-2024 University of Bristol and contributors (University of Edinburgh, Swansea University).
+The material on this site is copyright (c) 2020-2024 UK Longitudinal Linkage Collaboration and contributors.
 
 It is open and licensed under the Creative Commons Attribution ShareAlike License (CC-BY-SA) v4.0 
 
