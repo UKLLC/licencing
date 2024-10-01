@@ -1,9 +1,9 @@
-# licencing
-Copying and License information CC BY-NC-SA 4.0 International
+# Copyright & Licensing
+Copyright and licensing information CC BY-NC-SA 4.0 International
 
-The material on this site is copyright (c) 2020-2024 UK Longitudinal Linkage Collaboration and contributors.
+Content on this site is copyright (c) 2020-2024 UK Longitudinal Linkage Collaboration and contributors.
 
-It is open and licensed under the Creative Commons Attribution – NonCommercial-ShareAlike License CC BY-NC-SA 4.0 International
+The content is open and licensed under the Creative Commons Attribution–NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 
 CC BY-NC-SA includes the following elements: 
 BY – Credit must be given to the creator
