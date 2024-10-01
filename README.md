@@ -6,8 +6,8 @@ Content on this site is copyright (c) 2020-2024 UK Longitudinal Linkage Collabor
 The content is open and licensed under the Creative Commons Attribution–NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 
 CC BY-NC-SA includes the following elements: 
-BY – Credit must be given to the creator
-NC – Reusers are allowed to distribute, remix, adapt, and build upon the material in any medium or format, for non-commercial purposes only
+BY – Credit must be given to the creator;
+NC – Reusers are allowed to distribute, remix, adapt, and build upon the material in any medium or format, for non-commercial purposes only;
 SA – Adaptations must be shared under the same terms.
 
 The full CC BY-NC-SA 4.0 International text may be found at:
