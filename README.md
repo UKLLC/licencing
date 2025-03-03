@@ -13,3 +13,6 @@ SA – Adaptations must be shared under the same terms.
 The full CC BY-NC-SA 4.0 International text may be found at:
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+You can cite UK LLC Guidebook using the following text:
+UK Longitudinal Linkage Collaboration. (2024). UK LLC Guidebook: data documentation and user guide. Zenodo. https://doi.org/10.5281/zenodo.14857713
